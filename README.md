@@ -2,7 +2,11 @@
 
 The Project uses React 18, React Toolkit, Alan AI to create Search eninge for [Stack Overflow API](https://api.stackexchange.com/docs/questions#page=1&order=desc&sort=activity&tagged=c%23&filter=default&site=stackoverflow&run=true).
 
-Implement infinite scroll function.
+Implement infinite scroll function. And user can search the tag with Alan assistant. 
+
+Try to say "Search for python" "Search for JavaScript"
+
+![screenshot](screenshot.png)
 
 You can easily follow the below steps to launch the App.
 
